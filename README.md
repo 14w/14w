@@ -2,7 +2,7 @@
   <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/DlL5P33u4mUi0azSzi/giphy.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm ksr</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/XmaRBqmJCzFjOsjl2O/giphy.gif" width="24px">, I'm <a herf="https://github.com/4ksr">ksr</a></h1>
 
 ## Connect with Me
 <p align="center">
